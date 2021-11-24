@@ -49,9 +49,7 @@ int main()
     e1.details();
     cout<<"Contents of the input file"<<endl;
     e1.display_details();
-
     e1.write_to_file();
-
     cout<<"Contents of the output file."<<endl;
     e1.display_details();
 

@@ -1,4 +1,4 @@
-/*5.	Write a C++ program to handle command line arguments using argc and argv[]. Take a set of numbers as input through an int array. Then create two files ORIGINAL and SORTED using the command line arguments and write the original array to the file ORIGINAL and the sorted array to the file SORTED. The program finally displays the contents of both the files*/
+/*Write a C++ program to handle command line arguments using argc and argv[]. Take a set of numbers as input through an int array. Then create two files ORIGINAL and SORTED using the command line arguments and write the original array to the file ORIGINAL and the sorted array to the file SORTED. The program finally displays the contents of both the files*/
 
 #include <iostream>
 #include <fstream>
